@@ -8,3 +8,4 @@ add to cart.
 remove from cart.
 total no of prices count.
 total amount count.
+<img src="google.com/test">
