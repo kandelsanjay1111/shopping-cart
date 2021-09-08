@@ -8,4 +8,6 @@ add to cart.
 remove from cart.
 total no of prices count.
 total amount count.
-![](app/src/main/res/drawable/refrence_image1.png)
+
+
+![screenshot](https://github.com/kandelsanjay1111/shopping-cart_react/blob/main/public/images/Screenshot%20(2).png)

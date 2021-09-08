@@ -1,4 +1,3 @@
-  
 export const products = [
     {
         id: 1,
@@ -23,8 +22,8 @@ export const products = [
         price: '3500',
         img: 'https://images-na.ssl-images-amazon.com/images/I/71A9Vo1BatL._SL1500_.jpg',
         quantity:1
-},
-  {
+    },
+    {
         id: 4,
         title: "Iphone 12",
         description:"Best mobile ever",
